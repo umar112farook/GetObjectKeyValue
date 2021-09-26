@@ -16,6 +16,8 @@ value = a
 
 ## Solution:
 
+This function is implemented using a JavaScript. JavaScript file is present in this repo.
+
 How do you run JavaScript script through the Terminal?
 
 You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. 
