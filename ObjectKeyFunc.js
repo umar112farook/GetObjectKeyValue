@@ -14,8 +14,8 @@ function getObjectKeys(object, key) {
 }
 
 // Set the values of obj and key below
-var obj = {"a1": { "b1": { "c1": "d1" }}};
-var key = 'a1.b1.c1'
+var obj = {"x": { "y": { "z": "a" }}};
+var key = 'x.y.z'
 
 //Call the function to see the output.
 console.log(getObjectKeys(obj, key));
