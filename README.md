@@ -35,7 +35,7 @@ You can Run your JavaScript File from your Terminal only if you have installed N
 You will get the output.
 
 
-## Steps: ##1 : (If you want to quickly test the function in an online javascript compiler)
+## Steps: ##2 : (If you want to quickly test the function in an online javascript compiler)
 
 1. Copy the content of the file ObjectKeyFunc.js 
 2. Open https://onecompiler.com/javascript in different tab.
