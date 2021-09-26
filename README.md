@@ -18,13 +18,12 @@ value = a
 
 This function is implemented using a JavaScript. JavaScript file is present in this repo.
 
+
+## Steps: ##1 : RUN with a terminal or CMD.
+
 How do you run JavaScript script through the Terminal?
 
-You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. 
-If you have Installed it then Simply open the terminal and type “node FileName.js”. 
-If you don’t have NodeJs runtime environment then go to NodeJs Runtime Environment Download and Download it.
-
-Steps: ##1
+You can Run your JavaScript File from your Terminal only if you have installed NodeJs runtime. If you have Installed it then Simply open the terminal and type “node FileName.js”. If you don’t have NodeJs runtime environment then go to NodeJs Runtime Environment Download and Download it (https://nodejs.org/en/download/).
 
 1. Clone the repo from GITHUB with below command 
 	git clone 
